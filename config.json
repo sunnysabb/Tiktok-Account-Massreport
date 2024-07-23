@@ -1,6 +1,7 @@
 {
-    "report_url": "",
-    "proxy_scraper": "n",
+    "report_url": "https://www.tiktok.com/aweme/v2/aweme/feedback/?WebIdLastTime=1721025572&aid=1988&app_language=en&app_name=tiktok_web&aweme_type=0&browser_language=en-US&browser_name=Mozilla&browser_online=true&browser_platform=Win32&browser_version=5.0%20%28Linux%3B%20Android%206.0%3B%20Nexus%205%20Build%2FMRA58N%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Mobile%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&current_region=TH&data_collection_enabled=true&device_id=7391748469336491536&device_platform=web_mobile&focus_state=true&from_page=video&history_len=2&is_fullscreen=false&is_page_visible=true&is_sub_only_video=0&lang=en&nickname=Make%20Yuttawat&object_id=7363731544168615176&object_owner_id=73256973827&odinId=7391814555671004161&os=android&owner_id=73256973827&play_mode=browser_mode&priority_region=&reason=90115&referer=https%3A%2F%2Fth.search.yahoo.com%2F&region=TH&report_type=video&root_referer=https%3A%2F%2Fth.search.yahoo.com%2F&screen_height=1216&screen_width=772&target=7363731544168615176&tz_name=Asia%2FBangkok&user_is_login=false&verifyFp=verify_lyy0m2pv_W1YBUnIY_BuG3_452j_AOWL_4PwKwpgBU6KY&video_id=7363731544168615176&video_owner=%5Bobject%20Object%5D&webcast_language=en&msToken=GugUGFqgPzgaJ-8516XgeIKQNIkH4xsTGMof_A1eQL_4ZvGci1UxTuEIgcivMjx9fQyW80wc4jm-UNNt2b9ZFFtDoWJIV-Fn4_0HAWBELwFNklKC6OKaY6dni3x75SyxgpLzNdphbYvQ1G7sZ90AH4Q=&X-Bogus=DFSzKwGuK/iANyhPtwm0BFSwXQMQ&_signature=_02B4Z6wo00001xrfUUwAAIDDkOWhMHdOC6sa.1XAAKAy1e
+",
+    "proxy_scraper": "y",
     "threads": 200,
 
     "report_types": {
@@ -8,10 +9,10 @@
         "Sexual Abuse": "n",
         "Animal Abuse": "n",
         "Criminal Activities": "n",
-        "Hate": "n",
-        "Bullying": "n",
+        "Hate": "y",
+        "Bullying": "y",
         "Suicide Or Self-Harm": "n",
-        "Dangerous Content": "n",
+        "Dangerous Content": "y",
         "Sexual Content": "n",
         "Porn": "n",
         "Drugs": "n",
